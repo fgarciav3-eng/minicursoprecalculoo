@@ -37,7 +37,7 @@
         }
 
         header::before {
-            content: '🎓📐✏️🧮📊';
+            content: '📐✏️🧮📊';
             position: absolute;
             font-size: 3em;
             opacity: 0.1;
