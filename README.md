@@ -1,0 +1,2 @@
+# minicursoprecalculoo
+PROYECTO DE MINICURSO PRECALCULO
